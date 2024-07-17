@@ -2,7 +2,7 @@
 ## PAM with log-transform, PAM with penalized spline.
 ## Package: pammtools;
 
-## The real2.txt required in plot is available in https://github.com/yqml/NPCox
+## The nppbc2.txt required in plot is available in https://github.com/yqml/NPCox
 
 # install.packages('pammtools')
 rm(list = ls())
